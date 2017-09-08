@@ -1,40 +1,52 @@
 # 个人信息
 
- - 郑瑶/男/1997 
+ - 罗常平/男/1994 
  - 本科/东华理工大学软件工程 
  - 工作年限：2年
- - Github：https://github.com/ecit13218
-
+ - Github：https://github.com/371778500
+ - 博客园：http://www.cnblogs.com/luochp3/
  - 期望职位：Java程序员，全职
- - 相关阅读：《spring实战（第四版）》，《java编程思想》
+ - 相关阅读：《java虚拟机》，《java web 开发技术内幕》
    
 # 联系方式
 
-- 手机：18070042829 （江西南昌）
-- Email：zhengyao6@foxmail.com 
-- QQ：985461424
+- 手机：13698087519 （江西上饶）
+- Email：luochp3@foxmail.com 
+- QQ：371778500
 
 ---
 # 工作经历
 
 ## 用友网络科技股份有限公司 （ 2015年8月 ~ 至今 ）
 
-### 维护App后端接口 (2017年2月~至今)
-在此项目中负责维护App产品后端接口数据，负责维护产品后端数据和修改bug工作
+### 乐学（2017年7~2017年8）
+在该项目中负责前后台环境的搭建，后台大部分服务的编写，linux服务器部署运行环境的搭建
+使用的技术栈为：spring+springmvc+hibernate+redis
+前端使用的是:vue+webpack
 
-### 海航共享服务项目 (2016年8月~2017年2月)
-在此项财务共享目中开发客户所需的单据，对客户的各种财务单据进行审批，审批后生成其他单据等业务功能。
-使用的技术栈为：spring+springmvc+hibernate+redis 前端使用的是:requireJS+plupload+js
+### 项目管理云平台（2017年3~至今）
+在此项目中负责使用webservice与主数据进行数据交换，同时负责权限开发，项目启动快车道模块的前后台开发
+使用的技术栈为：spring+springmvc+hibernate+redis
+前端使用的是:requirejs+knockoutjs+router
+
+### 优乐学（2017年1月~2017年3月）
+在此项目中负责使用node为前台提供服务，编写少量Vue界面，使用ngnix反向代理实现负载均衡
+使用的技术栈为：node+vue+webpack+mongodb+nginx
+
+### 海航共享服务项目 (2016年8月~2017年12月)
+在此项目中负责使用webservice对外部系统接口的进行开发与调用
+使用的技术栈为：spring+springmvc+hibernate+redis
+前端使用的是:requirejs+knockoutjs+router
 
 
 ### 内蒙古煤炭在线交易项目（2016年2月~2016年9月） 
-在此项目中，我负责的模块为在线交易模块，主要业务为前端进行轮询查询，当有专场交易开启时，即用户可以对该专场进行加入收藏夹，在线报价，报价后需要撤单的话需要三方进行同意才可等功能。
+在此项目中，负责履约模块的开发，权限的设计开发，审批流的开发，websocket消息发送
 使用的技术栈前台为requirejs+knockoutjs+router。
 后端为spring+springmvc+shiro+jpa+redis。
 
 
 ### 内蒙锦联铝材交易项目（2015年10月~2016年12月）
-在此项目中主要做的是为APP端写数据查询接口，提供所需要的数据。
+为android和ios端提供后台接口服务，然后联调测试
 
 
 
@@ -42,9 +54,9 @@
 
 
 # 技能清单
-- 后端框架：spring/springMVC/ MyBatis
-- 前端框架：Bootstrap/knockoutjs
-- 数据库相关：MySQL/PgSQL/oracle
+- 后端框架：spring/springMVC/ spring data jpa/mybatis/hibernate
+- 前端框架：Bootstrap/knockoutjs/jquery/require/router/vue/node
+- 数据库相关：MySQL/PgSQL/oracle/mogodb
 - 版本管理：Svn/Git
 
 
