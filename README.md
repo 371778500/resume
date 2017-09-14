@@ -5,7 +5,7 @@
  - 工作年限：2年
  - Github：https://github.com/371778500
  - 博客园：http://www.cnblogs.com/luochp3/
- - 期望职位：Java程序员，全职
+ - 期望职位：Java工程师，全栈工程师
  - 相关阅读：《java虚拟机》，《java web 开发技术内幕》
    
 # 联系方式
