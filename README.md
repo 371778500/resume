@@ -54,6 +54,7 @@
 - 前端框架：Bootstrap/knockoutjs/jquery/require/router/vue/node
 - 数据库相关：MySQL/PgSQL/oracle/mogodb
 - 版本管理：Svn/Git
+- 其他： shiro/quartz/webservice/websocket/activemq...
 
 # 工作期望&个人评价
 
